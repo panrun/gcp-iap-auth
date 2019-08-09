@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/imkira/gcp-iap-auth/jwt"
+	"github.com/panrun/gcp-iap-auth/jwt"
 )
 
 type proxy struct {

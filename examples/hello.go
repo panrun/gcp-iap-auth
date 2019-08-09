@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/imkira/gcp-iap-auth/jwt"
+	"github.com/panrun/gcp-iap-auth/jwt"
 )
 
 var cfg *jwt.Config
